@@ -1,0 +1,22 @@
+
+    .baslik{
+        align-items: center;
+text-align: center;
+    }
+  .todoadd{
+    display: flex;
+    width: 33%;
+    margin-left: 33%;
+    margin-top: 5vh;
+  }
+  .tableclasses{
+    width: 33%;
+    margin-left: 33%;
+    margin-top: 5vh;
+    cursor: pointer;
+  }
+  .done{
+    text-decoration: line-through;
+    background-color: rgb(179, 81, 81);
+    
+  }
